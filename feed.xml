@@ -2,19 +2,13 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
+  <title>Alex Jansens Web Page</title>
+  <link>lutherism.github.io</link>
+  <description>Alex Jansen's personal website</description>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
-  </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
+    <title>First Post</title>
+    <link>lutherism.github.io/posts/08-29-2018</link>
+    <description>Noobs first blog</description>
   </item>
 </channel>
-
 </rss>
